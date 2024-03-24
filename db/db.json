@@ -77,17 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "id": "a031",
-      "nome": "Elena",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opicionais": [
-        "Salame",
-        "Pepino"
-      ],
-      "status": "Solicitado"
-    }
-  ]
+  "burgers": []
 }
