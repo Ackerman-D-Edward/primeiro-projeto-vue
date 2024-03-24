@@ -99,7 +99,7 @@
         "Pepino",
         "Tomate"
       ],
-      "status": "Solicitado"
+      "status": "Em produção"
     },
     {
       "id": "4",
@@ -126,18 +126,6 @@
       "status": "Em produção"
     },
     {
-      "id": "6",
-      "nome": "Hellena Harper",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado"
-    },
-    {
       "id": "7",
       "nome": "Jake Muller",
       "carne": "Alcatra",
@@ -158,7 +146,7 @@
         "Bacon",
         "Pepino"
       ],
-      "status": "Solicitado"
+      "status": "Em produção"
     }
   ]
 }
